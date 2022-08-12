@@ -9,5 +9,6 @@ Participants:
 - Marinez Cristina de Almeida
 - Rafael Teodoro
 - Daniele Sousa
+- Marcela Lima
 - Mais um participante
 - Julia Pereira de Andrade
